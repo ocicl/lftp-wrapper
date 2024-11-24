@@ -1,0 +1,9 @@
+* lftp-wrapper
+
+lftp wrapper, sftp client for Common Lisp
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/vindarel/lftp-wrapper.git |
+| commit  | 1433866                                          |
+| systems | lftp-wrapper                                     |
+|---------+--------------------------------------------------|
